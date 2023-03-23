@@ -3,7 +3,7 @@ package programs;
 public class SangeeTask {
 	
 	public static void main(String[] args) {
-		String str = "alpha123beta123";
+		String str = "alpha123beta1234";
 		System.out.println(SangeeTask.reverseOnlyLetters(str));
 	}
 	 public static String reverseOnlyLetters(String S) {
